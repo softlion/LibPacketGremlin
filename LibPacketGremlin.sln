@@ -7,7 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{61C6CCBC-261
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85C76C2E-90E5-4E11-A66F-85766B027EBE}"
 	ProjectSection(SolutionItems) = preProject
-		NuGet.Config = NuGet.Config
 		README.md = README.md
 	EndProjectSection
 EndProject
@@ -38,5 +37,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{EB4C9272-709A-421D-931A-4BA74086A8A7} = {61C6CCBC-2613-4FF6-93B0-533746A87808}
 		{1E6E6DD7-A211-4985-A3C1-60488CB08709} = {6ADCDE7C-AC29-4AD4-8C75-85A0A02900F4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {243BC3B4-4930-4EFE-83B7-F908E33E6A53}
 	EndGlobalSection
 EndGlobal
